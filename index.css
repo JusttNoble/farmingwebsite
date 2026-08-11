@@ -228,7 +228,7 @@ section{
 .home-container{
     background-image: linear-gradient(rgba(0, 0, 0, 0.3),
      rgba(0, 0, 0, 0.5)),
-     url(dan-mcguire-6VhPY27jdps-unsplash.jpg);
+     url(images/dan-meyers-0AgtPoAARtE-unsplash.jpg);
      background-position: center;
      background-repeat: no-repeat;
     background-size: cover;
@@ -610,7 +610,7 @@ background-color: rgb(241, 241, 241);
     width: 100%;
     aspect-ratio: 16 / 9;
     min-height: 320px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url(/images/tom-de-decker-_dnc3j1oVlk-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url(images/tom-de-decker-_dnc3j1oVlk-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -741,7 +741,7 @@ footer{
     height: 450px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.3),
     rgba(0, 0, 0, 0.5)),
-    url(/images/greenforce-staffing-bYZn_C-RswQ-unsplash.jpg);
+    url(images/greenforce-staffing-bYZn_C-RswQ-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
