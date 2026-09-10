@@ -786,7 +786,7 @@ footer{
     gap: 2rem;
 }
 footer h1{
-    font-size: clamp(3.5rem,13vw, 11rem);
+    font-size: clamp(3.5rem,9vw, 9rem);
     text-align: center;
     background-image: linear-gradient(to right, rgb(15, 128, 15), rgb(1, 87, 1));
     -webkit-background-clip: text;
@@ -1026,6 +1026,14 @@ footer h1{
     .off-screen-menu{
         width: 70%;
         padding: 40px;
+    }
+    .footer-atributes{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    footer h1{
+        font-size: clamp(2.5rem, 8vw, 8rem)
     }
 }
 
